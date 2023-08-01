@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deduplicator", "Deduplicator\Deduplicator.csproj", "{0BB53C6D-6E9D-4462-8AF4-84C4C08572F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB53C6D-6E9D-4462-8AF4-84C4C08572F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB53C6D-6E9D-4462-8AF4-84C4C08572F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB53C6D-6E9D-4462-8AF4-84C4C08572F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB53C6D-6E9D-4462-8AF4-84C4C08572F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC51ABFB-4D51-4F40-9FE2-C0F9BAE6CA99}
+	EndGlobalSection
+EndGlobal

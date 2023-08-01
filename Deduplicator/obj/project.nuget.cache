@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7xmdCfQ/JukaZqXMjLQde3XXOGiqW81/MujE2VDkTwJ3Dhc0AfGiVIcJq0qjfyQ57Ip+1WNtrzU9b5d5/424Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jjiri\\source\\repos\\Deduplicator\\Deduplicator\\Deduplicator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jjiri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jjiri\\.nuget\\packages\\yamldotnet\\13.1.1\\yamldotnet.13.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
